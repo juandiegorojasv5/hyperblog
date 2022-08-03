@@ -40,3 +40,9 @@ body{
 #container h1{
     font-size:20px;
 }
+
+#footer{
+    background:#777;
+    color:#fff;
+    text-align:center;
+}
